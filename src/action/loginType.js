@@ -1,0 +1,1 @@
+export const LoginSignType=("LOGIN_SIGN_TYPE")
